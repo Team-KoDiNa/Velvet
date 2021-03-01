@@ -1,2 +1,2 @@
-# KeyCoin
+# Velvet
 blockchain project
