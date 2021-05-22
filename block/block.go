@@ -7,6 +7,8 @@ import (
 	"time"
 )
 
+const BlockLimit = 10000000000000000
+
 type Block struct {
 	prevHash   []byte
 	hash       []byte
